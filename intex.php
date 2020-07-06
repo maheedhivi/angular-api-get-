@@ -8,6 +8,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
 
 <body ng-app="myApp">
+
 <header><a href="/angular-api_controllers">MAIN PAGE</a></header><br>
 <div class="link">
 <a href="#!london">City 1</a>
@@ -21,5 +22,4 @@
 <div class="ng-view"></div>
 
 </body>
-
 </html>
